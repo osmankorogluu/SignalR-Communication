@@ -48,3 +48,4 @@ C:\Users\korog\Desktop\SignalRProject\SignalRBackend\SignalRProject\obj\Debug\ne
 C:\Users\korog\Desktop\SignalRProject\SignalRBackend\SignalRProject\obj\Debug\net5.0\ref\SignalRProject.dll
 C:\Users\korog\Desktop\SignalRProject\SignalRBackend\SignalRProject\obj\Debug\net5.0\SignalRProject.pdb
 C:\Users\korog\Desktop\SignalRProject\SignalRBackend\SignalRProject\obj\Debug\net5.0\SignalRProject.genruntimeconfig.cache
+C:\Users\korog\Desktop\SignalRProject\SignalRBackend\SignalRProject\obj\Debug\net5.0\SignalRProject.csproj.CopyComplete

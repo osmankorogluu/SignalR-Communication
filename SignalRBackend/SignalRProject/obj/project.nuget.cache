@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHo6dkrnIpPBCnlOcw+6X8SlLqS1Nu6GsE83TrsnGmHhYZ4bjMJ8NWkVucFag3wO5bqdjfmNUMMQQ/45hFghyQ==",
+  "dgSpecHash": "FzorXp9q+FdEOoLbnAzJma4ICic1rZeEjm1OkLrdkLCpOAM9I7zCmy2hdVAqNi7WKRTpLYUWh8LMWm6/NMQapw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
+  "projectFilePath": "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\SignalRProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\korog\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\korog\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

@@ -11,7 +11,6 @@ namespace SignalRProject.Hubs
         public async Task SendMessageAsync(string message)
         {
             await Clients.All.SendAsync("receiveMessage", message);
-            // abi bu proje çok küçük ikisini aynı atayım
         }
     }
 }

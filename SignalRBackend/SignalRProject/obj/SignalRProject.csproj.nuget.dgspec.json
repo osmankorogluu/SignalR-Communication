@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {}
+    "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\SignalRProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {
+    "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\SignalRProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
+        "projectUniqueName": "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\SignalRProject.csproj",
         "projectName": "SignalRProject",
-        "projectPath": "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
+        "projectPath": "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\SignalRProject.csproj",
         "packagesPath": "C:\\Users\\korog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\korog\\source\\repos\\SignalRProject\\SignalRProject\\obj\\",
+        "outputPath": "C:\\Users\\korog\\Desktop\\SignalRProject\\SignalRBackend\\SignalRProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\korog\\AppData\\Roaming\\NuGet\\NuGet.Config",

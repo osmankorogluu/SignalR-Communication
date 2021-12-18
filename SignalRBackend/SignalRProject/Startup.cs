@@ -36,8 +36,6 @@ namespace SignalRProject
             app.UseCors();
 
             app.UseRouting();
-            
-
 
             app.UseEndpoints(endpoints =>
             {

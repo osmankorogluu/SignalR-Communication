@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SignalRProject.Business;
 using SignalRProject.Hubs;
 using System;
 using System.Collections.Generic;
@@ -23,7 +24,9 @@ namespace SignalRProject
             .AllowCredentials()
             .SetIsOriginAllowed(orgin => true)
             ));
+            services.AddTransient<MyBusiness>();
             services.AddSignalR();
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,7 +42,9 @@ namespace SignalRProject
 
             app.UseEndpoints(endpoints =>
             {
+              
                 endpoints.MapHub<MyHub>("/myhub");
+                endpoints.MapControllers();
             });
         }
     }
